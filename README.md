@@ -10,13 +10,14 @@
 
 ![vscode badge](https://img.shields.io/badge/Made%20with-VSCode-1f425f.svg)
 
-![Calculadora React Dio]()
+<img src="https://github.com/MGBrave/calc-react-dio/blob/main/img.png?raw=true" alt="react" width="250" />
 
 
 
 
 
-Projeto realizado Formação React Developer - Professor [Pablo Henrique](https://github.com/pablohdev) da [Digital Innovation One](https://web.dio.me/home)
+
+Projeto realizado no curso de Formação React Developer - Professor [Pablo Henrique](https://github.com/pablohdev) da [Digital Innovation One](https://web.dio.me/home)
 
 ## <img src="https://user-images.githubusercontent.com/60014891/168324047-c0ccd0c7-3a0e-45c1-98a1-50ca64b82012.png" alt="phone" width="40"/> Contato: 
 
